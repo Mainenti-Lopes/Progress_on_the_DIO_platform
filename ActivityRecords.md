@@ -11,4 +11,4 @@ The activities are separated by week.
 
 Time of activities: 10 hours
 
-- 09/24 - 10/02
+- 09/26 - 10/02
