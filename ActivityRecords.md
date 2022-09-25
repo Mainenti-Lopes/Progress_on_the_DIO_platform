@@ -9,7 +9,8 @@ The activities are separated by week.
   3. Live: Geração Tech Unimed-BH - Ciência de dados | Aula Inaugural (Inaugural Class)
   4. Course: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (Creating Your First Repository on GitHub to Share Your Progress)
   5. Course: Ambiente de Desenvolvimento e Primeiros Passos com Python (Development Environment and Getting Started with Python)
+  6. Course: Conhecendo a Linguagem de Programação Python (Getting to Know the Python Programming Language)
 
-Time of activities: 10 hours
+Time of activities: 13 hours
 
 - 09/26 - 10/02
