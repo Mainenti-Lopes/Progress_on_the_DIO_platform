@@ -8,6 +8,7 @@ The activities are separated by week.
   2. Course: Como Entregar seu Desafio de Projeto (How to Submit Your Project Challenge)
   3. Live: Geração Tech Unimed-BH - Ciência de dados | Aula Inaugural (Inaugural Class)
   4. Course: Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso (Creating Your First Repository on GitHub to Share Your Progress)
+  5. Course: Ambiente de Desenvolvimento e Primeiros Passos com Python (Development Environment and Getting Started with Python)
 
 Time of activities: 10 hours
 
