@@ -18,5 +18,6 @@ Time of activities: 13 hours
   1. Course: Tipos de Operadores com Python (Types of Operators with Python)
   2. Course: Estruturas Condicionais e de Repetição em Python (Conditional and Repetition Structures in Python)
   3. Course: Manipulação de strings com Python (String manipulation with Python)
+  4. Code challenge: Desafios Iniciais Py - Unimed-BH (Initial Challenges Py - Unimed-BH)
 
-Time of activities: 6 hours
+Time of activities: 7 hours
