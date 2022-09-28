@@ -17,5 +17,6 @@ Time of activities: 13 hours
   - Activities on Geração Tech Unimed-BH - Ciência de Dados Bootcamp
   1. Course: Tipos de Operadores com Python (Types of Operators with Python)
   2. Course: Estruturas Condicionais e de Repetição em Python (Conditional and Repetition Structures in Python)
+  3. Course: Manipulação de strings com Python (String manipulation with Python)
 
-Time of activities: 4 hours
+Time of activities: 6 hours
