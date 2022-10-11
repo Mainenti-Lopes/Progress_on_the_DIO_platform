@@ -19,5 +19,12 @@ Time of activities: 13 hours
   2. Course: Estruturas Condicionais e de Repetição em Python (Conditional and Repetition Structures in Python)
   3. Course: Manipulação de strings com Python (String manipulation with Python)
   4. Code challenge: Desafios Iniciais Py - Unimed-BH (Initial Challenges Py - Unimed-BH)
+  5. Project challenge: Análise de dados com Python e Pandas (Data Analysis with Python and Pandas)
 
-Time of activities: 7 hours
+Time of activities: 11 hours
+
+- 10/10 - 10/16
+  - Activities on Geração Tech Unimed-BH - Ciência de Dados Bootcamp
+  1. Course: Trabalhando com Listas em Python (Working with Lists in Python)
+
+Time of activities: 02 hours
