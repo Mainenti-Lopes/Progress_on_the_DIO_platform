@@ -27,5 +27,6 @@ Time of activities: 11 hours
   - Activities on Geração Tech Unimed-BH - Ciência de Dados Bootcamp
   1. Course: Trabalhando com Listas em Python (Working with Lists in Python)
   2. Course: Conhecendo Tuplas em Python (Knowing Tuples in Python)
+  3. Course: Explorando Conjuntos em Python (Exploring Sets in Python)
 
-Time of activities: 03 hours
+Time of activities: 04 hours
