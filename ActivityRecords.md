@@ -34,5 +34,6 @@ Time of activities: 04 hours
 - 10/17 - 10/23
   - Activities on Geração Tech Unimed-BH - Ciência de Dados Bootcamp
   1. Course: Aprendendo a Utilizar Dicionários em Python (Learning to Use Dictionaries in Python)
+  2. Course: Dominando Funções Python (Mastering Python Functions)
 
-Time of activities: 01 hours
+Time of activities: 02 hours
