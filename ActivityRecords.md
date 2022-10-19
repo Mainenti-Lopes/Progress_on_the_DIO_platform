@@ -36,5 +36,7 @@ Time of activities: 04 hours
   1. Course: Aprendendo a Utilizar Dicionários em Python (Learning to Use Dictionaries in Python)
   2. Course: Dominando Funções Python (Mastering Python Functions)
   3. Course: Fundamentos de ETL (Extract, Transform, Load) com Python (ETL Fundamentals with Python)
+  4. Course: Introdução à Programação Orientada a Objetos com Python (Introduction to Object Oriented Programming with Python)
+  5. Course: Aprendendo o Conceito de Herança com Python (Learning the Concept of Inheritance with Python)
 
-Time of activities: 04 hours
+Time of activities: 06 hours
