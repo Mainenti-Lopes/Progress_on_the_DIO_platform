@@ -39,5 +39,6 @@ Time of activities: 04 hours
   4. Course: Introdução à Programação Orientada a Objetos com Python (Introduction to Object Oriented Programming with Python)
   5. Course: Aprendendo o Conceito de Herança com Python (Learning the Concept of Inheritance with Python)
   6. Course: Aplicando Encapsulamento em Python (Applying Encapsulation in Python)
+  7. Course: Conhecendo Polimorfismo em Python (Understanding Polymorphism in Python)
 
-Time of activities: 07 hours
+Time of activities: 08 hours
