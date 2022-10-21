@@ -40,5 +40,6 @@ Time of activities: 04 hours
   5. Course: Aprendendo o Conceito de Herança com Python (Learning the Concept of Inheritance with Python)
   6. Course: Aplicando Encapsulamento em Python (Applying Encapsulation in Python)
   7. Course: Conhecendo Polimorfismo em Python (Understanding Polymorphism in Python)
+  8. Course: Ampliando o conhecimento em POO com Python (Expanding OOP Knowledge with Python)
 
-Time of activities: 08 hours
+Time of activities: 09 hours
