@@ -42,5 +42,6 @@ Time of activities: 04 hours
   7. Course: Conhecendo Polimorfismo em Python (Understanding Polymorphism in Python)
   8. Course: Ampliando o conhecimento em POO com Python (Expanding OOP Knowledge with Python)
   9. Code challenge: Desafios Intermediários Py - Unimed-BH (Intermediate Challenges Py - Unimed-BH)
+  10. Course: Introdução a Banco de Dados (Introduction to Database)
 
-Time of activities: 10 hours
+Time of activities: 13 hours
