@@ -43,5 +43,6 @@ Time of activities: 04 hours
   8. Course: Ampliando o conhecimento em POO com Python (Expanding OOP Knowledge with Python)
   9. Code challenge: Desafios Intermediários Py - Unimed-BH (Intermediate Challenges Py - Unimed-BH)
   10. Course: Introdução a Banco de Dados (Introduction to Database)
+  11. Course: Sistemas de Gerenciamento de Banco de Dados (Database Management Systems)
 
-Time of activities: 13 hours
+Time of activities: 15 hours
