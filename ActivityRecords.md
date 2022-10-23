@@ -41,5 +41,6 @@ Time of activities: 04 hours
   6. Course: Aplicando Encapsulamento em Python (Applying Encapsulation in Python)
   7. Course: Conhecendo Polimorfismo em Python (Understanding Polymorphism in Python)
   8. Course: Ampliando o conhecimento em POO com Python (Expanding OOP Knowledge with Python)
+  9. Code challenge: Desafios Intermediários Py - Unimed-BH (Intermediate Challenges Py - Unimed-BH)
 
-Time of activities: 09 hours
+Time of activities: 10 hours
