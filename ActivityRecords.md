@@ -46,3 +46,10 @@ Time of activities: 04 hours
   11. Course: Sistemas de Gerenciamento de Banco de Dados (Database Management Systems)
 
 Time of activities: 15 hours
+
+- 10/24 - 10/30
+  - Activities on Geração Tech Unimed-BH - Ciência de Dados Bootcamp
+  1. Course: Modelagem de Dados para Banco de Dados (Data Modeling for Database)
+  2. Course: Arquitetura de Banco de Dados (Database Architecture)
+
+Time of activities: 04 hours
